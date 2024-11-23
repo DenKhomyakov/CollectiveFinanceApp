@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bm_statistics"
+        android:icon="@drawable/ic_stats"
+        android:title="Статистика" />
+    <item
+        android:id="@+id/bm_regular_payment"
+        android:icon="@drawable/ic_regular_payment"
+        android:title="Регулярные платежи" />
+    <item
+        android:id="@+id/bm_goal"
+        android:icon="@drawable/ic_goal"
+        android:title="Цели" />
+    <item
+        android:id="@+id/bm_accumululation"
+        android:icon="@drawable/ic_money"
+        android:title="Накопления" />
+    <item
+        android:id="@+id/bm_collective"
+        android:icon="@drawable/ic_collective"
+        android:title="Совместный бюджет" />
+</menu>
